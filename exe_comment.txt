@@ -1,0 +1,1 @@
+pyinstaller -F E:\EvilHunter_Bot-master\Main.py -p E:\EvilHunter_Bot-master\Control\EvilHunter.py -p E:\EvilHunter_Bot-master\Module\adb.py -p E:\EvilHunter_Bot-master\Data\ShareInfo.py
